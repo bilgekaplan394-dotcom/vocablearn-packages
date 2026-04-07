@@ -3,33 +3,540 @@
     "id": "en_a1",
     "target_lang_code": "en",
     "target_lang_name": "English",
-    "flag": "🇺🇸",
+    "flag": "🇬🇧",
     "level": "A1",
-    "word_count": 5,
-    "files": {
-      "tr": "en_a1_tr.json"
-    }
+    "word_count": 100,
+    "files": { "tr": "en_a1_tr.json" }
+  },
+  {
+    "id": "en_a2",
+    "target_lang_code": "en",
+    "target_lang_name": "English",
+    "flag": "🇬🇧",
+    "level": "A2",
+    "word_count": 100,
+    "files": { "tr": "en_a2_tr.json" }
   },
   {
     "id": "en_b1",
     "target_lang_code": "en",
     "target_lang_name": "English",
-    "flag": "🇺🇸",
+    "flag": "🇬🇧",
     "level": "B1",
-    "word_count": 5,
-    "files": {
-      "tr": "en_b1_tr.json"
-    }
+    "word_count": 100,
+    "files": { "tr": "en_b1_tr.json" }
   },
   {
-  "id": "en_b2",
-  "target_lang_code": "en",
-  "target_lang_name": "English",
-  "flag": "🇺🇸",
-  "level": "B2",
-  "word_count": 5,
-  "files": {
-    "tr": "en_b2_tr.json"
+    "id": "en_b2",
+    "target_lang_code": "en",
+    "target_lang_name": "English",
+    "flag": "🇬🇧",
+    "level": "B2",
+    "word_count": 100,
+    "files": { "tr": "en_b2_tr.json" }
+  },
+  {
+    "id": "en_c1",
+    "target_lang_code": "en",
+    "target_lang_name": "English",
+    "flag": "🇬🇧",
+    "level": "C1",
+    "word_count": 100,
+    "files": { "tr": "en_c1_tr.json" }
+  },
+  {
+    "id": "en_c2",
+    "target_lang_code": "en",
+    "target_lang_name": "English",
+    "flag": "🇬🇧",
+    "level": "C2",
+    "word_count": 100,
+    "files": { "tr": "en_c2_tr.json" }
+  },
+  {
+    "id": "de_a1",
+    "target_lang_code": "de",
+    "target_lang_name": "Deutsch",
+    "flag": "🇩🇪",
+    "level": "A1",
+    "word_count": 100,
+    "files": { "tr": "de_a1_tr.json" }
+  },
+  {
+    "id": "de_a2",
+    "target_lang_code": "de",
+    "target_lang_name": "Deutsch",
+    "flag": "🇩🇪",
+    "level": "A2",
+    "word_count": 100,
+    "files": { "tr": "de_a2_tr.json" }
+  },
+  {
+    "id": "de_b1",
+    "target_lang_code": "de",
+    "target_lang_name": "Deutsch",
+    "flag": "🇩🇪",
+    "level": "B1",
+    "word_count": 100,
+    "files": { "tr": "de_b1_tr.json" }
+  },
+  {
+    "id": "de_b2",
+    "target_lang_code": "de",
+    "target_lang_name": "Deutsch",
+    "flag": "🇩🇪",
+    "level": "B2",
+    "word_count": 100,
+    "files": { "tr": "de_b2_tr.json" }
+  },
+  {
+    "id": "de_c1",
+    "target_lang_code": "de",
+    "target_lang_name": "Deutsch",
+    "flag": "🇩🇪",
+    "level": "C1",
+    "word_count": 100,
+    "files": { "tr": "de_c1_tr.json" }
+  },
+  {
+    "id": "de_c2",
+    "target_lang_code": "de",
+    "target_lang_name": "Deutsch",
+    "flag": "🇩🇪",
+    "level": "C2",
+    "word_count": 100,
+    "files": { "tr": "de_c2_tr.json" }
+  },
+  {
+    "id": "es_a1",
+    "target_lang_code": "es",
+    "target_lang_name": "Español",
+    "flag": "🇪🇸",
+    "level": "A1",
+    "word_count": 100,
+    "files": { "tr": "es_a1_tr.json" }
+  },
+  {
+    "id": "es_a2",
+    "target_lang_code": "es",
+    "target_lang_name": "Español",
+    "flag": "🇪🇸",
+    "level": "A2",
+    "word_count": 100,
+    "files": { "tr": "es_a2_tr.json" }
+  },
+  {
+    "id": "es_b1",
+    "target_lang_code": "es",
+    "target_lang_name": "Español",
+    "flag": "🇪🇸",
+    "level": "B1",
+    "word_count": 100,
+    "files": { "tr": "es_b1_tr.json" }
+  },
+  {
+    "id": "es_b2",
+    "target_lang_code": "es",
+    "target_lang_name": "Español",
+    "flag": "🇪🇸",
+    "level": "B2",
+    "word_count": 100,
+    "files": { "tr": "es_b2_tr.json" }
+  },
+  {
+    "id": "es_c1",
+    "target_lang_code": "es",
+    "target_lang_name": "Español",
+    "flag": "🇪🇸",
+    "level": "C1",
+    "word_count": 100,
+    "files": { "tr": "es_c1_tr.json" }
+  },
+  {
+    "id": "es_c2",
+    "target_lang_code": "es",
+    "target_lang_name": "Español",
+    "flag": "🇪🇸",
+    "level": "C2",
+    "word_count": 100,
+    "files": { "tr": "es_c2_tr.json" }
+  },
+  {
+    "id": "fr_a1",
+    "target_lang_code": "fr",
+    "target_lang_name": "Français",
+    "flag": "🇫🇷",
+    "level": "A1",
+    "word_count": 100,
+    "files": { "tr": "fr_a1_tr.json" }
+  },
+  {
+    "id": "fr_a2",
+    "target_lang_code": "fr",
+    "target_lang_name": "Français",
+    "flag": "🇫🇷",
+    "level": "A2",
+    "word_count": 100,
+    "files": { "tr": "fr_a2_tr.json" }
+  },
+  {
+    "id": "fr_b1",
+    "target_lang_code": "fr",
+    "target_lang_name": "Français",
+    "flag": "🇫🇷",
+    "level": "B1",
+    "word_count": 100,
+    "files": { "tr": "fr_b1_tr.json" }
+  },
+  {
+    "id": "fr_b2",
+    "target_lang_code": "fr",
+    "target_lang_name": "Français",
+    "flag": "🇫🇷",
+    "level": "B2",
+    "word_count": 100,
+    "files": { "tr": "fr_b2_tr.json" }
+  },
+  {
+    "id": "fr_c1",
+    "target_lang_code": "fr",
+    "target_lang_name": "Français",
+    "flag": "🇫🇷",
+    "level": "C1",
+    "word_count": 100,
+    "files": { "tr": "fr_c1_tr.json" }
+  },
+  {
+    "id": "fr_c2",
+    "target_lang_code": "fr",
+    "target_lang_name": "Français",
+    "flag": "🇫🇷",
+    "level": "C2",
+    "word_count": 100,
+    "files": { "tr": "fr_c2_tr.json" }
+  },
+  {
+    "id": "it_a1",
+    "target_lang_code": "it",
+    "target_lang_name": "Italiano",
+    "flag": "🇮🇹",
+    "level": "A1",
+    "word_count": 100,
+    "files": { "tr": "it_a1_tr.json" }
+  },
+  {
+    "id": "it_a2",
+    "target_lang_code": "it",
+    "target_lang_name": "Italiano",
+    "flag": "🇮🇹",
+    "level": "A2",
+    "word_count": 100,
+    "files": { "tr": "it_a2_tr.json" }
+  },
+  {
+    "id": "it_b1",
+    "target_lang_code": "it",
+    "target_lang_name": "Italiano",
+    "flag": "🇮🇹",
+    "level": "B1",
+    "word_count": 100,
+    "files": { "tr": "it_b1_tr.json" }
+  },
+  {
+    "id": "it_b2",
+    "target_lang_code": "it",
+    "target_lang_name": "Italiano",
+    "flag": "🇮🇹",
+    "level": "B2",
+    "word_count": 100,
+    "files": { "tr": "it_b2_tr.json" }
+  },
+  {
+    "id": "it_c1",
+    "target_lang_code": "it",
+    "target_lang_name": "Italiano",
+    "flag": "🇮🇹",
+    "level": "C1",
+    "word_count": 100,
+    "files": { "tr": "it_c1_tr.json" }
+  },
+  {
+    "id": "it_c2",
+    "target_lang_code": "it",
+    "target_lang_name": "Italiano",
+    "flag": "🇮🇹",
+    "level": "C2",
+    "word_count": 100,
+    "files": { "tr": "it_c2_tr.json" }
+  },
+  {
+    "id": "pt_a1",
+    "target_lang_code": "pt",
+    "target_lang_name": "Português",
+    "flag": "🇧🇷",
+    "level": "A1",
+    "word_count": 100,
+    "files": { "tr": "pt_a1_tr.json" }
+  },
+  {
+    "id": "pt_a2",
+    "target_lang_code": "pt",
+    "target_lang_name": "Português",
+    "flag": "🇧🇷",
+    "level": "A2",
+    "word_count": 100,
+    "files": { "tr": "pt_a2_tr.json" }
+  },
+  {
+    "id": "pt_b1",
+    "target_lang_code": "pt",
+    "target_lang_name": "Português",
+    "flag": "🇧🇷",
+    "level": "B1",
+    "word_count": 100,
+    "files": { "tr": "pt_b1_tr.json" }
+  },
+  {
+    "id": "pt_b2",
+    "target_lang_code": "pt",
+    "target_lang_name": "Português",
+    "flag": "🇧🇷",
+    "level": "B2",
+    "word_count": 100,
+    "files": { "tr": "pt_b2_tr.json" }
+  },
+  {
+    "id": "pt_c1",
+    "target_lang_code": "pt",
+    "target_lang_name": "Português",
+    "flag": "🇧🇷",
+    "level": "C1",
+    "word_count": 100,
+    "files": { "tr": "pt_c1_tr.json" }
+  },
+  {
+    "id": "pt_c2",
+    "target_lang_code": "pt",
+    "target_lang_name": "Português",
+    "flag": "🇧🇷",
+    "level": "C2",
+    "word_count": 100,
+    "files": { "tr": "pt_c2_tr.json" }
+  },
+  {
+    "id": "zh_a1",
+    "target_lang_code": "zh",
+    "target_lang_name": "中文",
+    "flag": "🇨🇳",
+    "level": "A1",
+    "word_count": 100,
+    "files": { "tr": "zh_a1_tr.json" }
+  },
+  {
+    "id": "zh_a2",
+    "target_lang_code": "zh",
+    "target_lang_name": "中文",
+    "flag": "🇨🇳",
+    "level": "A2",
+    "word_count": 100,
+    "files": { "tr": "zh_a2_tr.json" }
+  },
+  {
+    "id": "zh_b1",
+    "target_lang_code": "zh",
+    "target_lang_name": "中文",
+    "flag": "🇨🇳",
+    "level": "B1",
+    "word_count": 100,
+    "files": { "tr": "zh_b1_tr.json" }
+  },
+  {
+    "id": "zh_b2",
+    "target_lang_code": "zh",
+    "target_lang_name": "中文",
+    "flag": "🇨🇳",
+    "level": "B2",
+    "word_count": 100,
+    "files": { "tr": "zh_b2_tr.json" }
+  },
+  {
+    "id": "zh_c1",
+    "target_lang_code": "zh",
+    "target_lang_name": "中文",
+    "flag": "🇨🇳",
+    "level": "C1",
+    "word_count": 100,
+    "files": { "tr": "zh_c1_tr.json" }
+  },
+  {
+    "id": "zh_c2",
+    "target_lang_code": "zh",
+    "target_lang_name": "中文",
+    "flag": "🇨🇳",
+    "level": "C2",
+    "word_count": 100,
+    "files": { "tr": "zh_c2_tr.json" }
+  },
+  {
+    "id": "ja_a1",
+    "target_lang_code": "ja",
+    "target_lang_name": "日本語",
+    "flag": "🇯🇵",
+    "level": "A1",
+    "word_count": 100,
+    "files": { "tr": "ja_a1_tr.json" }
+  },
+  {
+    "id": "ja_a2",
+    "target_lang_code": "ja",
+    "target_lang_name": "日本語",
+    "flag": "🇯🇵",
+    "level": "A2",
+    "word_count": 100,
+    "files": { "tr": "ja_a2_tr.json" }
+  },
+  {
+    "id": "ja_b1",
+    "target_lang_code": "ja",
+    "target_lang_name": "日本語",
+    "flag": "🇯🇵",
+    "level": "B1",
+    "word_count": 100,
+    "files": { "tr": "ja_b1_tr.json" }
+  },
+  {
+    "id": "ja_b2",
+    "target_lang_code": "ja",
+    "target_lang_name": "日本語",
+    "flag": "🇯🇵",
+    "level": "B2",
+    "word_count": 100,
+    "files": { "tr": "ja_b2_tr.json" }
+  },
+  {
+    "id": "ja_c1",
+    "target_lang_code": "ja",
+    "target_lang_name": "日本語",
+    "flag": "🇯🇵",
+    "level": "C1",
+    "word_count": 100,
+    "files": { "tr": "ja_c1_tr.json" }
+  },
+  {
+    "id": "ja_c2",
+    "target_lang_code": "ja",
+    "target_lang_name": "日本語",
+    "flag": "🇯🇵",
+    "level": "C2",
+    "word_count": 100,
+    "files": { "tr": "ja_c2_tr.json" }
+  },
+  {
+    "id": "ko_a1",
+    "target_lang_code": "ko",
+    "target_lang_name": "한국어",
+    "flag": "🇰🇷",
+    "level": "A1",
+    "word_count": 100,
+    "files": { "tr": "ko_a1_tr.json" }
+  },
+  {
+    "id": "ko_a2",
+    "target_lang_code": "ko",
+    "target_lang_name": "한국어",
+    "flag": "🇰🇷",
+    "level": "A2",
+    "word_count": 100,
+    "files": { "tr": "ko_a2_tr.json" }
+  },
+  {
+    "id": "ko_b1",
+    "target_lang_code": "ko",
+    "target_lang_name": "한국어",
+    "flag": "🇰🇷",
+    "level": "B1",
+    "word_count": 100,
+    "files": { "tr": "ko_b1_tr.json" }
+  },
+  {
+    "id": "ko_b2",
+    "target_lang_code": "ko",
+    "target_lang_name": "한국어",
+    "flag": "🇰🇷",
+    "level": "B2",
+    "word_count": 100,
+    "files": { "tr": "ko_b2_tr.json" }
+  },
+  {
+    "id": "ko_c1",
+    "target_lang_code": "ko",
+    "target_lang_name": "한국어",
+    "flag": "🇰🇷",
+    "level": "C1",
+    "word_count": 100,
+    "files": { "tr": "ko_c1_tr.json" }
+  },
+  {
+    "id": "ko_c2",
+    "target_lang_code": "ko",
+    "target_lang_name": "한국어",
+    "flag": "🇰🇷",
+    "level": "C2",
+    "word_count": 100,
+    "files": { "tr": "ko_c2_tr.json" }
+  },
+  {
+    "id": "hu_a1",
+    "target_lang_code": "hu",
+    "target_lang_name": "Magyar",
+    "flag": "🇭🇺",
+    "level": "A1",
+    "word_count": 100,
+    "files": { "tr": "hu_a1_tr.json" }
+  },
+  {
+    "id": "hu_a2",
+    "target_lang_code": "hu",
+    "target_lang_name": "Magyar",
+    "flag": "🇭🇺",
+    "level": "A2",
+    "word_count": 100,
+    "files": { "tr": "hu_a2_tr.json" }
+  },
+  {
+    "id": "hu_b1",
+    "target_lang_code": "hu",
+    "target_lang_name": "Magyar",
+    "flag": "🇭🇺",
+    "level": "B1",
+    "word_count": 100,
+    "files": { "tr": "hu_b1_tr.json" }
+  },
+  {
+    "id": "hu_b2",
+    "target_lang_code": "hu",
+    "target_lang_name": "Magyar",
+    "flag": "🇭🇺",
+    "level": "B2",
+    "word_count": 100,
+    "files": { "tr": "hu_b2_tr.json" }
+  },
+  {
+    "id": "hu_c1",
+    "target_lang_code": "hu",
+    "target_lang_name": "Magyar",
+    "flag": "🇭🇺",
+    "level": "C1",
+    "word_count": 100,
+    "files": { "tr": "hu_c1_tr.json" }
+  },
+  {
+    "id": "hu_c2",
+    "target_lang_code": "hu",
+    "target_lang_name": "Magyar",
+    "flag": "🇭🇺",
+    "level": "C2",
+    "word_count": 100,
+    "files": { "tr": "hu_c2_tr.json" }
   }
-}
 ]
