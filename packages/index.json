@@ -1,4 +1,7 @@
 [
-  {"id":"en_b1","name":"İngilizce B1","level":"B1","word_count":5,"file":"en_b1.json"},
-  {"id":"en_b2","name":"İngilizce B2","level":"B2","word_count":5,"file":"en_b2.json"}
+  {"id":"en_b1","name":"İngilizce B1","level":"B1","word_count":100,"file":"en_b1.json",
+   "source_lang":"Türkçe","target_lang":"İngilizce"},
+
+  {"id":"es_ja_a1","name":"Japonca A1","level":"A1","word_count":100,"file":"es_ja_a1.json",
+   "source_lang":"Español","target_lang":"日本語"}
 ]
