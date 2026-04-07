@@ -20,5 +20,16 @@
     "files": {
       "tr": "en_b1_tr.json"
     }
+  },
+  {
+  "id": "en_b2",
+  "target_lang_code": "en",
+  "target_lang_name": "English",
+  "flag": "🇺🇸",
+  "level": "B2",
+  "word_count": 5,
+  "files": {
+    "tr": "en_b2_tr.json"
   }
+}
 ]
