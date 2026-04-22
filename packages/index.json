@@ -6,7 +6,7 @@
     "flag": "🇬🇧",
     "level": "A1",
     "word_count": 100,
-    "files": { "tr": "en_a1_tr.json" }
+    "files": { "tr": "en_a1_tr.json", "de": "en_a1_de.json", "es": "en_a1_es.json", "fr": "en_a1_fr.json", "it": "en_a1_it.json", "pt": "en_a1_pt.json", "ja": "en_a1_ja.json", "ko": "en_a1_ko.json", "zh": "en_a1_zh.json", "hu": "en_a1_hu.json" }
   },
   {
     "id": "en_a2",
@@ -15,7 +15,7 @@
     "flag": "🇬🇧",
     "level": "A2",
     "word_count": 100,
-    "files": { "tr": "en_a2_tr.json" }
+    "files": { "tr": "en_a2_tr.json", "de": "en_a2_de.json", "es": "en_a2_es.json", "fr": "en_a2_fr.json", "it": "en_a2_it.json", "pt": "en_a2_pt.json", "ja": "en_a2_ja.json", "ko": "en_a2_ko.json", "zh": "en_a2_zh.json", "hu": "en_a2_hu.json" }
   },
   {
     "id": "en_b1",
@@ -24,7 +24,7 @@
     "flag": "🇬🇧",
     "level": "B1",
     "word_count": 100,
-    "files": { "tr": "en_b1_tr.json" }
+    "files": { "tr": "en_b1_tr.json", "de": "en_b1_de.json", "es": "en_b1_es.json", "fr": "en_b1_fr.json", "it": "en_b1_it.json", "pt": "en_b1_pt.json", "ja": "en_b1_ja.json", "ko": "en_b1_ko.json", "zh": "en_b1_zh.json", "hu": "en_b1_hu.json" }
   },
   {
     "id": "en_b2",
@@ -33,7 +33,7 @@
     "flag": "🇬🇧",
     "level": "B2",
     "word_count": 100,
-    "files": { "tr": "en_b2_tr.json" }
+    "files": { "tr": "en_b2_tr.json", "de": "en_b2_de.json", "es": "en_b2_es.json", "fr": "en_b2_fr.json", "it": "en_b2_it.json", "pt": "en_b2_pt.json", "ja": "en_b2_ja.json", "ko": "en_b2_ko.json", "zh": "en_b2_zh.json", "hu": "en_b2_hu.json" }
   },
   {
     "id": "en_c1",
@@ -42,7 +42,7 @@
     "flag": "🇬🇧",
     "level": "C1",
     "word_count": 100,
-    "files": { "tr": "en_c1_tr.json" }
+    "files": { "tr": "en_c1_tr.json", "de": "en_c1_de.json", "es": "en_c1_es.json", "fr": "en_c1_fr.json", "it": "en_c1_it.json", "pt": "en_c1_pt.json", "ja": "en_c1_ja.json", "ko": "en_c1_ko.json", "zh": "en_c1_zh.json", "hu": "en_c1_hu.json" }
   },
   {
     "id": "en_c2",
@@ -51,7 +51,7 @@
     "flag": "🇬🇧",
     "level": "C2",
     "word_count": 100,
-    "files": { "tr": "en_c2_tr.json" }
+    "files": { "tr": "en_c2_tr.json", "de": "en_c2_de.json", "es": "en_c2_es.json", "fr": "en_c2_fr.json", "it": "en_c2_it.json", "pt": "en_c2_pt.json", "ja": "en_c2_ja.json", "ko": "en_c2_ko.json", "zh": "en_c2_zh.json", "hu": "en_c2_hu.json" }
   },
   {
     "id": "de_a1",
@@ -60,7 +60,7 @@
     "flag": "🇩🇪",
     "level": "A1",
     "word_count": 100,
-    "files": { "tr": "de_a1_tr.json" }
+    "files": { "tr": "de_a1_tr.json", "en": "de_a1_en.json", "es": "de_a1_es.json", "fr": "de_a1_fr.json", "it": "de_a1_it.json", "pt": "de_a1_pt.json", "ja": "de_a1_ja.json", "ko": "de_a1_ko.json", "zh": "de_a1_zh.json", "hu": "de_a1_hu.json" }
   },
   {
     "id": "de_a2",
@@ -69,7 +69,7 @@
     "flag": "🇩🇪",
     "level": "A2",
     "word_count": 100,
-    "files": { "tr": "de_a2_tr.json" }
+    "files": { "tr": "de_a2_tr.json", "en": "de_a2_en.json", "es": "de_a2_es.json", "fr": "de_a2_fr.json", "it": "de_a2_it.json", "pt": "de_a2_pt.json", "ja": "de_a2_ja.json", "ko": "de_a2_ko.json", "zh": "de_a2_zh.json", "hu": "de_a2_hu.json" }
   },
   {
     "id": "de_b1",
@@ -78,7 +78,7 @@
     "flag": "🇩🇪",
     "level": "B1",
     "word_count": 100,
-    "files": { "tr": "de_b1_tr.json" }
+    "files": { "tr": "de_b1_tr.json", "en": "de_b1_en.json", "es": "de_b1_es.json", "fr": "de_b1_fr.json", "it": "de_b1_it.json", "pt": "de_b1_pt.json", "ja": "de_b1_ja.json", "ko": "de_b1_ko.json", "zh": "de_b1_zh.json", "hu": "de_b1_hu.json" }
   },
   {
     "id": "de_b2",
@@ -87,7 +87,7 @@
     "flag": "🇩🇪",
     "level": "B2",
     "word_count": 100,
-    "files": { "tr": "de_b2_tr.json" }
+    "files": { "tr": "de_b2_tr.json", "en": "de_b2_en.json", "es": "de_b2_es.json", "fr": "de_b2_fr.json", "it": "de_b2_it.json", "pt": "de_b2_pt.json", "ja": "de_b2_ja.json", "ko": "de_b2_ko.json", "zh": "de_b2_zh.json", "hu": "de_b2_hu.json" }
   },
   {
     "id": "de_c1",
@@ -96,7 +96,7 @@
     "flag": "🇩🇪",
     "level": "C1",
     "word_count": 100,
-    "files": { "tr": "de_c1_tr.json" }
+    "files": { "tr": "de_c1_tr.json", "en": "de_c1_en.json", "es": "de_c1_es.json", "fr": "de_c1_fr.json", "it": "de_c1_it.json", "pt": "de_c1_pt.json", "ja": "de_c1_ja.json", "ko": "de_c1_ko.json", "zh": "de_c1_zh.json", "hu": "de_c1_hu.json" }
   },
   {
     "id": "de_c2",
@@ -105,7 +105,7 @@
     "flag": "🇩🇪",
     "level": "C2",
     "word_count": 100,
-    "files": { "tr": "de_c2_tr.json" }
+    "files": { "tr": "de_c2_tr.json", "en": "de_c2_en.json", "es": "de_c2_es.json", "fr": "de_c2_fr.json", "it": "de_c2_it.json", "pt": "de_c2_pt.json", "ja": "de_c2_ja.json", "ko": "de_c2_ko.json", "zh": "de_c2_zh.json", "hu": "de_c2_hu.json" }
   },
   {
     "id": "es_a1",
@@ -114,7 +114,7 @@
     "flag": "🇪🇸",
     "level": "A1",
     "word_count": 100,
-    "files": { "tr": "es_a1_tr.json" }
+    "files": { "tr": "es_a1_tr.json", "en": "es_a1_en.json", "de": "es_a1_de.json", "fr": "es_a1_fr.json", "it": "es_a1_it.json", "pt": "es_a1_pt.json", "ja": "es_a1_ja.json", "ko": "es_a1_ko.json", "zh": "es_a1_zh.json", "hu": "es_a1_hu.json" }
   },
   {
     "id": "es_a2",
@@ -123,7 +123,7 @@
     "flag": "🇪🇸",
     "level": "A2",
     "word_count": 100,
-    "files": { "tr": "es_a2_tr.json" }
+    "files": { "tr": "es_a2_tr.json", "en": "es_a2_en.json", "de": "es_a2_de.json", "fr": "es_a2_fr.json", "it": "es_a2_it.json", "pt": "es_a2_pt.json", "ja": "es_a2_ja.json", "ko": "es_a2_ko.json", "zh": "es_a2_zh.json", "hu": "es_a2_hu.json" }
   },
   {
     "id": "es_b1",
@@ -132,7 +132,7 @@
     "flag": "🇪🇸",
     "level": "B1",
     "word_count": 100,
-    "files": { "tr": "es_b1_tr.json" }
+    "files": { "tr": "es_b1_tr.json", "en": "es_b1_en.json", "de": "es_b1_de.json", "fr": "es_b1_fr.json", "it": "es_b1_it.json", "pt": "es_b1_pt.json", "ja": "es_b1_ja.json", "ko": "es_b1_ko.json", "zh": "es_b1_zh.json", "hu": "es_b1_hu.json" }
   },
   {
     "id": "es_b2",
@@ -141,7 +141,7 @@
     "flag": "🇪🇸",
     "level": "B2",
     "word_count": 100,
-    "files": { "tr": "es_b2_tr.json" }
+    "files": { "tr": "es_b2_tr.json", "en": "es_b2_en.json", "de": "es_b2_de.json", "fr": "es_b2_fr.json", "it": "es_b2_it.json", "pt": "es_b2_pt.json", "ja": "es_b2_ja.json", "ko": "es_b2_ko.json", "zh": "es_b2_zh.json", "hu": "es_b2_hu.json" }
   },
   {
     "id": "es_c1",
@@ -150,7 +150,7 @@
     "flag": "🇪🇸",
     "level": "C1",
     "word_count": 100,
-    "files": { "tr": "es_c1_tr.json" }
+    "files": { "tr": "es_c1_tr.json", "en": "es_c1_en.json", "de": "es_c1_de.json", "fr": "es_c1_fr.json", "it": "es_c1_it.json", "pt": "es_c1_pt.json", "ja": "es_c1_ja.json", "ko": "es_c1_ko.json", "zh": "es_c1_zh.json", "hu": "es_c1_hu.json" }
   },
   {
     "id": "es_c2",
@@ -159,7 +159,7 @@
     "flag": "🇪🇸",
     "level": "C2",
     "word_count": 100,
-    "files": { "tr": "es_c2_tr.json" }
+    "files": { "tr": "es_c2_tr.json", "en": "es_c2_en.json", "de": "es_c2_de.json", "fr": "es_c2_fr.json", "it": "es_c2_it.json", "pt": "es_c2_pt.json", "ja": "es_c2_ja.json", "ko": "es_c2_ko.json", "zh": "es_c2_zh.json", "hu": "es_c2_hu.json" }
   },
   {
     "id": "fr_a1",
@@ -168,7 +168,7 @@
     "flag": "🇫🇷",
     "level": "A1",
     "word_count": 100,
-    "files": { "tr": "fr_a1_tr.json" }
+    "files": { "tr": "fr_a1_tr.json", "en": "fr_a1_en.json", "de": "fr_a1_de.json", "es": "fr_a1_es.json", "it": "fr_a1_it.json", "pt": "fr_a1_pt.json", "ja": "fr_a1_ja.json", "ko": "fr_a1_ko.json", "zh": "fr_a1_zh.json", "hu": "fr_a1_hu.json" }
   },
   {
     "id": "fr_a2",
@@ -177,7 +177,7 @@
     "flag": "🇫🇷",
     "level": "A2",
     "word_count": 100,
-    "files": { "tr": "fr_a2_tr.json" }
+    "files": { "tr": "fr_a2_tr.json", "en": "fr_a2_en.json", "de": "fr_a2_de.json", "es": "fr_a2_es.json", "it": "fr_a2_it.json", "pt": "fr_a2_pt.json", "ja": "fr_a2_ja.json", "ko": "fr_a2_ko.json", "zh": "fr_a2_zh.json", "hu": "fr_a2_hu.json" }
   },
   {
     "id": "fr_b1",
@@ -186,7 +186,7 @@
     "flag": "🇫🇷",
     "level": "B1",
     "word_count": 100,
-    "files": { "tr": "fr_b1_tr.json" }
+    "files": { "tr": "fr_b1_tr.json", "en": "fr_b1_en.json", "de": "fr_b1_de.json", "es": "fr_b1_es.json", "it": "fr_b1_it.json", "pt": "fr_b1_pt.json", "ja": "fr_b1_ja.json", "ko": "fr_b1_ko.json", "zh": "fr_b1_zh.json", "hu": "fr_b1_hu.json" }
   },
   {
     "id": "fr_b2",
@@ -195,7 +195,7 @@
     "flag": "🇫🇷",
     "level": "B2",
     "word_count": 100,
-    "files": { "tr": "fr_b2_tr.json" }
+    "files": { "tr": "fr_b2_tr.json", "en": "fr_b2_en.json", "de": "fr_b2_de.json", "es": "fr_b2_es.json", "it": "fr_b2_it.json", "pt": "fr_b2_pt.json", "ja": "fr_b2_ja.json", "ko": "fr_b2_ko.json", "zh": "fr_b2_zh.json", "hu": "fr_b2_hu.json" }
   },
   {
     "id": "fr_c1",
@@ -204,7 +204,7 @@
     "flag": "🇫🇷",
     "level": "C1",
     "word_count": 100,
-    "files": { "tr": "fr_c1_tr.json" }
+    "files": { "tr": "fr_c1_tr.json", "en": "fr_c1_en.json", "de": "fr_c1_de.json", "es": "fr_c1_es.json", "it": "fr_c1_it.json", "pt": "fr_c1_pt.json", "ja": "fr_c1_ja.json", "ko": "fr_c1_ko.json", "zh": "fr_c1_zh.json", "hu": "fr_c1_hu.json" }
   },
   {
     "id": "fr_c2",
@@ -213,7 +213,7 @@
     "flag": "🇫🇷",
     "level": "C2",
     "word_count": 100,
-    "files": { "tr": "fr_c2_tr.json" }
+    "files": { "tr": "fr_c2_tr.json", "en": "fr_c2_en.json", "de": "fr_c2_de.json", "es": "fr_c2_es.json", "it": "fr_c2_it.json", "pt": "fr_c2_pt.json", "ja": "fr_c2_ja.json", "ko": "fr_c2_ko.json", "zh": "fr_c2_zh.json", "hu": "fr_c2_hu.json" }
   },
   {
     "id": "it_a1",
@@ -222,7 +222,7 @@
     "flag": "🇮🇹",
     "level": "A1",
     "word_count": 100,
-    "files": { "tr": "it_a1_tr.json" }
+    "files": { "tr": "it_a1_tr.json", "en": "it_a1_en.json", "de": "it_a1_de.json", "es": "it_a1_es.json", "fr": "it_a1_fr.json", "pt": "it_a1_pt.json", "ja": "it_a1_ja.json", "ko": "it_a1_ko.json", "zh": "it_a1_zh.json", "hu": "it_a1_hu.json" }
   },
   {
     "id": "it_a2",
@@ -231,7 +231,7 @@
     "flag": "🇮🇹",
     "level": "A2",
     "word_count": 100,
-    "files": { "tr": "it_a2_tr.json" }
+    "files": { "tr": "it_a2_tr.json", "en": "it_a2_en.json", "de": "it_a2_de.json", "es": "it_a2_es.json", "fr": "it_a2_fr.json", "pt": "it_a2_pt.json", "ja": "it_a2_ja.json", "ko": "it_a2_ko.json", "zh": "it_a2_zh.json", "hu": "it_a2_hu.json" }
   },
   {
     "id": "it_b1",
@@ -240,7 +240,7 @@
     "flag": "🇮🇹",
     "level": "B1",
     "word_count": 100,
-    "files": { "tr": "it_b1_tr.json" }
+    "files": { "tr": "it_b1_tr.json", "en": "it_b1_en.json", "de": "it_b1_de.json", "es": "it_b1_es.json", "fr": "it_b1_fr.json", "pt": "it_b1_pt.json", "ja": "it_b1_ja.json", "ko": "it_b1_ko.json", "zh": "it_b1_zh.json", "hu": "it_b1_hu.json" }
   },
   {
     "id": "it_b2",
@@ -249,7 +249,7 @@
     "flag": "🇮🇹",
     "level": "B2",
     "word_count": 100,
-    "files": { "tr": "it_b2_tr.json" }
+    "files": { "tr": "it_b2_tr.json", "en": "it_b2_en.json", "de": "it_b2_de.json", "es": "it_b2_es.json", "fr": "it_b2_fr.json", "pt": "it_b2_pt.json", "ja": "it_b2_ja.json", "ko": "it_b2_ko.json", "zh": "it_b2_zh.json", "hu": "it_b2_hu.json" }
   },
   {
     "id": "it_c1",
@@ -258,7 +258,7 @@
     "flag": "🇮🇹",
     "level": "C1",
     "word_count": 100,
-    "files": { "tr": "it_c1_tr.json" }
+    "files": { "tr": "it_c1_tr.json", "en": "it_c1_en.json", "de": "it_c1_de.json", "es": "it_c1_es.json", "fr": "it_c1_fr.json", "pt": "it_c1_pt.json", "ja": "it_c1_ja.json", "ko": "it_c1_ko.json", "zh": "it_c1_zh.json", "hu": "it_c1_hu.json" }
   },
   {
     "id": "it_c2",
@@ -267,7 +267,7 @@
     "flag": "🇮🇹",
     "level": "C2",
     "word_count": 100,
-    "files": { "tr": "it_c2_tr.json" }
+    "files": { "tr": "it_c2_tr.json", "en": "it_c2_en.json", "de": "it_c2_de.json", "es": "it_c2_es.json", "fr": "it_c2_fr.json", "pt": "it_c2_pt.json", "ja": "it_c2_ja.json", "ko": "it_c2_ko.json", "zh": "it_c2_zh.json", "hu": "it_c2_hu.json" }
   },
   {
     "id": "pt_a1",
@@ -276,7 +276,7 @@
     "flag": "🇧🇷",
     "level": "A1",
     "word_count": 100,
-    "files": { "tr": "pt_a1_tr.json" }
+    "files": { "tr": "pt_a1_tr.json", "en": "pt_a1_en.json", "de": "pt_a1_de.json", "es": "pt_a1_es.json", "fr": "pt_a1_fr.json", "it": "pt_a1_it.json", "ja": "pt_a1_ja.json", "ko": "pt_a1_ko.json", "zh": "pt_a1_zh.json", "hu": "pt_a1_hu.json" }
   },
   {
     "id": "pt_a2",
@@ -285,7 +285,7 @@
     "flag": "🇧🇷",
     "level": "A2",
     "word_count": 100,
-    "files": { "tr": "pt_a2_tr.json" }
+    "files": { "tr": "pt_a2_tr.json", "en": "pt_a2_en.json", "de": "pt_a2_de.json", "es": "pt_a2_es.json", "fr": "pt_a2_fr.json", "it": "pt_a2_it.json", "ja": "pt_a2_ja.json", "ko": "pt_a2_ko.json", "zh": "pt_a2_zh.json", "hu": "pt_a2_hu.json" }
   },
   {
     "id": "pt_b1",
@@ -294,7 +294,7 @@
     "flag": "🇧🇷",
     "level": "B1",
     "word_count": 100,
-    "files": { "tr": "pt_b1_tr.json" }
+    "files": { "tr": "pt_b1_tr.json", "en": "pt_b1_en.json", "de": "pt_b1_de.json", "es": "pt_b1_es.json", "fr": "pt_b1_fr.json", "it": "pt_b1_it.json", "ja": "pt_b1_ja.json", "ko": "pt_b1_ko.json", "zh": "pt_b1_zh.json", "hu": "pt_b1_hu.json" }
   },
   {
     "id": "pt_b2",
@@ -303,7 +303,7 @@
     "flag": "🇧🇷",
     "level": "B2",
     "word_count": 100,
-    "files": { "tr": "pt_b2_tr.json" }
+    "files": { "tr": "pt_b2_tr.json", "en": "pt_b2_en.json", "de": "pt_b2_de.json", "es": "pt_b2_es.json", "fr": "pt_b2_fr.json", "it": "pt_b2_it.json", "ja": "pt_b2_ja.json", "ko": "pt_b2_ko.json", "zh": "pt_b2_zh.json", "hu": "pt_b2_hu.json" }
   },
   {
     "id": "pt_c1",
@@ -312,7 +312,7 @@
     "flag": "🇧🇷",
     "level": "C1",
     "word_count": 100,
-    "files": { "tr": "pt_c1_tr.json" }
+    "files": { "tr": "pt_c1_tr.json", "en": "pt_c1_en.json", "de": "pt_c1_de.json", "es": "pt_c1_es.json", "fr": "pt_c1_fr.json", "it": "pt_c1_it.json", "ja": "pt_c1_ja.json", "ko": "pt_c1_ko.json", "zh": "pt_c1_zh.json", "hu": "pt_c1_hu.json" }
   },
   {
     "id": "pt_c2",
@@ -321,7 +321,7 @@
     "flag": "🇧🇷",
     "level": "C2",
     "word_count": 100,
-    "files": { "tr": "pt_c2_tr.json" }
+    "files": { "tr": "pt_c2_tr.json", "en": "pt_c2_en.json", "de": "pt_c2_de.json", "es": "pt_c2_es.json", "fr": "pt_c2_fr.json", "it": "pt_c2_it.json", "ja": "pt_c2_ja.json", "ko": "pt_c2_ko.json", "zh": "pt_c2_zh.json", "hu": "pt_c2_hu.json" }
   },
   {
     "id": "zh_a1",
@@ -330,7 +330,7 @@
     "flag": "🇨🇳",
     "level": "A1",
     "word_count": 100,
-    "files": { "tr": "zh_a1_tr.json" }
+    "files": { "tr": "zh_a1_tr.json", "en": "zh_a1_en.json", "de": "zh_a1_de.json", "es": "zh_a1_es.json", "fr": "zh_a1_fr.json", "it": "zh_a1_it.json", "pt": "zh_a1_pt.json", "ko": "zh_a1_ko.json", "ja": "zh_a1_ja.json", "hu": "zh_a1_hu.json" }
   },
   {
     "id": "zh_a2",
@@ -339,7 +339,7 @@
     "flag": "🇨🇳",
     "level": "A2",
     "word_count": 100,
-    "files": { "tr": "zh_a2_tr.json" }
+    "files": { "tr": "zh_a2_tr.json", "en": "zh_a2_en.json", "de": "zh_a2_de.json", "es": "zh_a2_es.json", "fr": "zh_a2_fr.json", "it": "zh_a2_it.json", "pt": "zh_a2_pt.json", "ko": "zh_a2_ko.json", "ja": "zh_a2_ja.json", "hu": "zh_a2_hu.json" }
   },
   {
     "id": "zh_b1",
@@ -348,7 +348,7 @@
     "flag": "🇨🇳",
     "level": "B1",
     "word_count": 100,
-    "files": { "tr": "zh_b1_tr.json" }
+    "files": { "tr": "zh_b1_tr.json", "en": "zh_b1_en.json", "de": "zh_b1_de.json", "es": "zh_b1_es.json", "fr": "zh_b1_fr.json", "it": "zh_b1_it.json", "pt": "zh_b1_pt.json", "ko": "zh_b1_ko.json", "ja": "zh_b1_ja.json", "hu": "zh_b1_hu.json" }
   },
   {
     "id": "zh_b2",
@@ -357,7 +357,7 @@
     "flag": "🇨🇳",
     "level": "B2",
     "word_count": 100,
-    "files": { "tr": "zh_b2_tr.json" }
+    "files": { "tr": "zh_b2_tr.json", "en": "zh_b2_en.json", "de": "zh_b2_de.json", "es": "zh_b2_es.json", "fr": "zh_b2_fr.json", "it": "zh_b2_it.json", "pt": "zh_b2_pt.json", "ko": "zh_b2_ko.json", "ja": "zh_b2_ja.json", "hu": "zh_b2_hu.json" }
   },
   {
     "id": "zh_c1",
@@ -366,7 +366,7 @@
     "flag": "🇨🇳",
     "level": "C1",
     "word_count": 100,
-    "files": { "tr": "zh_c1_tr.json" }
+    "files": { "tr": "zh_c1_tr.json", "en": "zh_c1_en.json", "de": "zh_c1_de.json", "es": "zh_c1_es.json", "fr": "zh_c1_fr.json", "it": "zh_c1_it.json", "pt": "zh_c1_pt.json", "ko": "zh_c1_ko.json", "ja": "zh_c1_ja.json", "hu": "zh_c1_hu.json" }
   },
   {
     "id": "zh_c2",
@@ -375,7 +375,7 @@
     "flag": "🇨🇳",
     "level": "C2",
     "word_count": 100,
-    "files": { "tr": "zh_c2_tr.json" }
+    "files": { "tr": "zh_c2_tr.json", "en": "zh_c2_en.json", "de": "zh_c2_de.json", "es": "zh_c2_es.json", "fr": "zh_c2_fr.json", "it": "zh_c2_it.json", "pt": "zh_c2_pt.json", "ko": "zh_c2_ko.json", "ja": "zh_c2_ja.json", "hu": "zh_c2_hu.json" }
   },
   {
     "id": "ja_a1",
@@ -384,7 +384,7 @@
     "flag": "🇯🇵",
     "level": "A1",
     "word_count": 100,
-    "files": { "tr": "ja_a1_tr.json" }
+    "files": { "tr": "ja_a1_tr.json", "en": "ja_a1_en.json", "de": "ja_a1_de.json", "es": "ja_a1_es.json", "fr": "ja_a1_fr.json", "it": "ja_a1_it.json", "pt": "ja_a1_pt.json", "ko": "ja_a1_ko.json", "zh": "ja_a1_zh.json", "hu": "ja_a1_hu.json" }
   },
   {
     "id": "ja_a2",
@@ -393,7 +393,7 @@
     "flag": "🇯🇵",
     "level": "A2",
     "word_count": 100,
-    "files": { "tr": "ja_a2_tr.json" }
+    "files": { "tr": "ja_a2_tr.json", "en": "ja_a2_en.json", "de": "ja_a2_de.json", "es": "ja_a2_es.json", "fr": "ja_a2_fr.json", "it": "ja_a2_it.json", "pt": "ja_a2_pt.json", "ko": "ja_a2_ko.json", "zh": "ja_a2_zh.json", "hu": "ja_a2_hu.json" }
   },
   {
     "id": "ja_b1",
@@ -402,7 +402,7 @@
     "flag": "🇯🇵",
     "level": "B1",
     "word_count": 100,
-    "files": { "tr": "ja_b1_tr.json" }
+    "files": { "tr": "ja_b1_tr.json", "en": "ja_b1_en.json", "de": "ja_b1_de.json", "es": "ja_b1_es.json", "fr": "ja_b1_fr.json", "it": "ja_b1_it.json", "pt": "ja_b1_pt.json", "ko": "ja_b1_ko.json", "zh": "ja_b1_zh.json", "hu": "ja_b1_hu.json" }
   },
   {
     "id": "ja_b2",
@@ -411,7 +411,7 @@
     "flag": "🇯🇵",
     "level": "B2",
     "word_count": 100,
-    "files": { "tr": "ja_b2_tr.json" }
+    "files": { "tr": "ja_b2_tr.json", "en": "ja_b2_en.json", "de": "ja_b2_de.json", "es": "ja_b2_es.json", "fr": "ja_b2_fr.json", "it": "ja_b2_it.json", "pt": "ja_b2_pt.json", "ko": "ja_b2_ko.json", "zh": "ja_b2_zh.json", "hu": "ja_b2_hu.json" }
   },
   {
     "id": "ja_c1",
@@ -420,7 +420,7 @@
     "flag": "🇯🇵",
     "level": "C1",
     "word_count": 100,
-    "files": { "tr": "ja_c1_tr.json" }
+    "files": { "tr": "ja_c1_tr.json", "en": "ja_c1_en.json", "de": "ja_c1_de.json", "es": "ja_c1_es.json", "fr": "ja_c1_fr.json", "it": "ja_c1_it.json", "pt": "ja_c1_pt.json", "ko": "ja_c1_ko.json", "zh": "ja_c1_zh.json", "hu": "ja_c1_hu.json" }
   },
   {
     "id": "ja_c2",
@@ -429,7 +429,7 @@
     "flag": "🇯🇵",
     "level": "C2",
     "word_count": 100,
-    "files": { "tr": "ja_c2_tr.json" }
+    "files": { "tr": "ja_c2_tr.json", "en": "ja_c2_en.json", "de": "ja_c2_de.json", "es": "ja_c2_es.json", "fr": "ja_c2_fr.json", "it": "ja_c2_it.json", "pt": "ja_c2_pt.json", "ko": "ja_c2_ko.json", "zh": "ja_c2_zh.json", "hu": "ja_c2_hu.json" }
   },
   {
     "id": "ko_a1",
@@ -438,7 +438,7 @@
     "flag": "🇰🇷",
     "level": "A1",
     "word_count": 100,
-    "files": { "tr": "ko_a1_tr.json" }
+    "files": { "tr": "ko_a1_tr.json", "en": "ko_a1_en.json", "de": "ko_a1_de.json", "es": "ko_a1_es.json", "fr": "ko_a1_fr.json", "it": "ko_a1_it.json", "pt": "ko_a1_pt.json", "ja": "ko_a1_ja.json", "zh": "ko_a1_zh.json", "hu": "ko_a1_hu.json" }
   },
   {
     "id": "ko_a2",
@@ -447,7 +447,7 @@
     "flag": "🇰🇷",
     "level": "A2",
     "word_count": 100,
-    "files": { "tr": "ko_a2_tr.json" }
+    "files": { "tr": "ko_a2_tr.json", "en": "ko_a2_en.json", "de": "ko_a2_de.json", "es": "ko_a2_es.json", "fr": "ko_a2_fr.json", "it": "ko_a2_it.json", "pt": "ko_a2_pt.json", "ja": "ko_a2_ja.json", "zh": "ko_a2_zh.json", "hu": "ko_a2_hu.json" }
   },
   {
     "id": "ko_b1",
@@ -456,7 +456,7 @@
     "flag": "🇰🇷",
     "level": "B1",
     "word_count": 100,
-    "files": { "tr": "ko_b1_tr.json" }
+    "files": { "tr": "ko_b1_tr.json", "en": "ko_b1_en.json", "de": "ko_b1_de.json", "es": "ko_b1_es.json", "fr": "ko_b1_fr.json", "it": "ko_b1_it.json", "pt": "ko_b1_pt.json", "ja": "ko_b1_ja.json", "zh": "ko_b1_zh.json", "hu": "ko_b1_hu.json" }
   },
   {
     "id": "ko_b2",
@@ -465,7 +465,7 @@
     "flag": "🇰🇷",
     "level": "B2",
     "word_count": 100,
-    "files": { "tr": "ko_b2_tr.json" }
+    "files": { "tr": "ko_b2_tr.json", "en": "ko_b2_en.json", "de": "ko_b2_de.json", "es": "ko_b2_es.json", "fr": "ko_b2_fr.json", "it": "ko_b2_it.json", "pt": "ko_b2_pt.json", "ja": "ko_b2_ja.json", "zh": "ko_b2_zh.json", "hu": "ko_b2_hu.json" }
   },
   {
     "id": "ko_c1",
@@ -474,7 +474,7 @@
     "flag": "🇰🇷",
     "level": "C1",
     "word_count": 100,
-    "files": { "tr": "ko_c1_tr.json" }
+    "files": { "tr": "ko_c1_tr.json", "en": "ko_c1_en.json", "de": "ko_c1_de.json", "es": "ko_c1_es.json", "fr": "ko_c1_fr.json", "it": "ko_c1_it.json", "pt": "ko_c1_pt.json", "ja": "ko_c1_ja.json", "zh": "ko_c1_zh.json", "hu": "ko_c1_hu.json" }
   },
   {
     "id": "ko_c2",
@@ -483,7 +483,7 @@
     "flag": "🇰🇷",
     "level": "C2",
     "word_count": 100,
-    "files": { "tr": "ko_c2_tr.json" }
+    "files": { "tr": "ko_c2_tr.json", "en": "ko_c2_en.json", "de": "ko_c2_de.json", "es": "ko_c2_es.json", "fr": "ko_c2_fr.json", "it": "ko_c2_it.json", "pt": "ko_c2_pt.json", "ja": "ko_c2_ja.json", "zh": "ko_c2_zh.json", "hu": "ko_c2_hu.json" }
   },
   {
     "id": "hu_a1",
@@ -492,7 +492,7 @@
     "flag": "🇭🇺",
     "level": "A1",
     "word_count": 100,
-    "files": { "tr": "hu_a1_tr.json" }
+    "files": { "tr": "hu_a1_tr.json", "en": "hu_a1_en.json", "de": "hu_a1_de.json", "es": "hu_a1_es.json", "fr": "hu_a1_fr.json", "it": "hu_a1_it.json", "pt": "hu_a1_pt.json", "ja": "hu_a1_ja.json", "ko": "hu_a1_ko.json", "zh": "hu_a1_zh.json" }
   },
   {
     "id": "hu_a2",
@@ -501,7 +501,7 @@
     "flag": "🇭🇺",
     "level": "A2",
     "word_count": 100,
-    "files": { "tr": "hu_a2_tr.json" }
+    "files": { "tr": "hu_a2_tr.json", "en": "hu_a2_en.json", "de": "hu_a2_de.json", "es": "hu_a2_es.json", "fr": "hu_a2_fr.json", "it": "hu_a2_it.json", "pt": "hu_a2_pt.json", "ja": "hu_a2_ja.json", "ko": "hu_a2_ko.json", "zh": "hu_a2_zh.json" }
   },
   {
     "id": "hu_b1",
@@ -510,7 +510,7 @@
     "flag": "🇭🇺",
     "level": "B1",
     "word_count": 100,
-    "files": { "tr": "hu_b1_tr.json" }
+    "files": { "tr": "hu_b1_tr.json", "en": "hu_b1_en.json", "de": "hu_b1_de.json", "es": "hu_b1_es.json", "fr": "hu_b1_fr.json", "it": "hu_b1_it.json", "pt": "hu_b1_pt.json", "ja": "hu_b1_ja.json", "ko": "hu_b1_ko.json", "zh": "hu_b1_zh.json" }
   },
   {
     "id": "hu_b2",
@@ -519,7 +519,7 @@
     "flag": "🇭🇺",
     "level": "B2",
     "word_count": 100,
-    "files": { "tr": "hu_b2_tr.json" }
+    "files": { "tr": "hu_b2_tr.json", "en": "hu_b2_en.json", "de": "hu_b2_de.json", "es": "hu_b2_es.json", "fr": "hu_b2_fr.json", "it": "hu_b2_it.json", "pt": "hu_b2_pt.json", "ja": "hu_b2_ja.json", "ko": "hu_b2_ko.json", "zh": "hu_b2_zh.json" }
   },
   {
     "id": "hu_c1",
@@ -528,7 +528,7 @@
     "flag": "🇭🇺",
     "level": "C1",
     "word_count": 100,
-    "files": { "tr": "hu_c1_tr.json" }
+    "files": { "tr": "hu_c1_tr.json", "en": "hu_c1_en.json", "de": "hu_c1_de.json", "es": "hu_c1_es.json", "fr": "hu_c1_fr.json", "it": "hu_c1_it.json", "pt": "hu_c1_pt.json", "ja": "hu_c1_ja.json", "ko": "hu_c1_ko.json", "zh": "hu_c1_zh.json" }
   },
   {
     "id": "hu_c2",
@@ -537,6 +537,6 @@
     "flag": "🇭🇺",
     "level": "C2",
     "word_count": 100,
-    "files": { "tr": "hu_c2_tr.json" }
+    "files": { "tr": "hu_c2_tr.json", "en": "hu_c2_en.json", "de": "hu_c2_de.json", "es": "hu_c2_es.json", "fr": "hu_c2_fr.json", "it": "hu_c2_it.json", "pt": "hu_c2_pt.json", "ja": "hu_c2_ja.json", "ko": "hu_c2_ko.json", "zh": "hu_c2_zh.json" }
   }
 ]
