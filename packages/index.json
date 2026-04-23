@@ -1,5 +1,59 @@
 [
   {
+    "id": "tr_a1",
+    "target_lang_code": "tr",
+    "target_lang_name": "Türkçe",
+    "flag": "🇹🇷",
+    "level": "A1",
+    "word_count": 100,
+    "files": { "en": "tr_a1_en.json", "de": "tr_a1_de.json", "es": "tr_a1_es.json", "fr": "tr_a1_fr.json", "it": "tr_a1_it.json", "pt": "tr_a1_pt.json", "ja": "tr_a1_ja.json", "ko": "tr_a1_ko.json", "zh": "tr_a1_zh.json", "hu": "tr_a1_hu.json" }
+  },
+  {
+    "id": "tr_a2",
+    "target_lang_code": "tr",
+    "target_lang_name": "Türkçe",
+    "flag": "🇹🇷",
+    "level": "A2",
+    "word_count": 100,
+    "files": { "en": "tr_a2_en.json", "de": "tr_a2_de.json", "es": "tr_a2_es.json", "fr": "tr_a2_fr.json", "it": "tr_a2_it.json", "pt": "tr_a2_pt.json", "ja": "tr_a2_ja.json", "ko": "tr_a2_ko.json", "zh": "tr_a2_zh.json", "hu": "tr_a2_hu.json" }
+  },
+  {
+    "id": "tr_b1",
+    "target_lang_code": "tr",
+    "target_lang_name": "Türkçe",
+    "flag": "🇹🇷",
+    "level": "B1",
+    "word_count": 100,
+    "files": { "en": "tr_b1_en.json", "de": "tr_b1_de.json", "es": "tr_b1_es.json", "fr": "tr_b1_fr.json", "it": "tr_b1_it.json", "pt": "tr_b1_pt.json", "ja": "tr_b1_ja.json", "ko": "tr_b1_ko.json", "zh": "tr_b1_zh.json", "hu": "tr_b1_hu.json" }
+  },
+  {
+    "id": "tr_b2",
+    "target_lang_code": "tr",
+    "target_lang_name": "Türkçe",
+    "flag": "🇹🇷",
+    "level": "B2",
+    "word_count": 100,
+    "files": { "en": "tr_b2_en.json", "de": "tr_b2_de.json", "es": "tr_b2_es.json", "fr": "tr_b2_fr.json", "it": "tr_b2_it.json", "pt": "tr_b2_pt.json", "ja": "tr_b2_ja.json", "ko": "tr_b2_ko.json", "zh": "tr_b2_zh.json", "hu": "tr_b2_hu.json" }
+  },
+  {
+    "id": "tr_c1",
+    "target_lang_code": "tr",
+    "target_lang_name": "Türkçe",
+    "flag": "🇹🇷",
+    "level": "C1",
+    "word_count": 100,
+    "files": { "en": "tr_c1_en.json", "de": "tr_c1_de.json", "es": "tr_c1_es.json", "fr": "tr_c1_fr.json", "it": "tr_c1_it.json", "pt": "tr_c1_pt.json", "ja": "tr_c1_ja.json", "ko": "tr_c1_ko.json", "zh": "tr_c1_zh.json", "hu": "tr_c1_hu.json" }
+  },
+  {
+    "id": "tr_c2",
+    "target_lang_code": "tr",
+    "target_lang_name": "Türkçe",
+    "flag": "🇹🇷",
+    "level": "C2",
+    "word_count": 100,
+    "files": { "en": "tr_c2_en.json", "de": "tr_c2_de.json", "es": "tr_c2_es.json", "fr": "tr_c2_fr.json", "it": "tr_c2_it.json", "pt": "tr_c2_pt.json", "ja": "tr_c2_ja.json", "ko": "tr_c2_ko.json", "zh": "tr_c2_zh.json", "hu": "tr_c2_hu.json" }
+  },
+  {
     "id": "en_a1",
     "target_lang_code": "en",
     "target_lang_name": "English",
